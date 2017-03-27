@@ -1,0 +1,6 @@
+{
+	"version":	"0.1",
+	"env":		"dev",
+	"port":		"8080",
+	"remote":	"http://your.api.endpoint"
+}
